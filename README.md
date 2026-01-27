@@ -8,7 +8,7 @@
 
 ---
 
-<div align="center" height="45" width="60">
+<div align="center" height="100" width="160">
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srimathaa&layout=compact&theme=dracula" height="150"/>
 </div>
