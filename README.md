@@ -48,21 +48,9 @@
                       
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="35"/>
 
-  
-
-<link rel="icon" href="https://render.com/favicon.ico" type="image/x-icon">
-
-
 
 <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" height="35"/>
-🔹 Example with other tech icons
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" height="35"/>
-🔹 Centered version
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" height="35"/>
+
 
 
 
