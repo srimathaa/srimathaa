@@ -47,6 +47,11 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35"/>
                       
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="35"/>
+
+  <img src="https://render.com/favicon.ico" height="35" />
+
+
+
                    
 </div>
 
